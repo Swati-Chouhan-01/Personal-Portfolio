@@ -13,4 +13,11 @@ Responsive Design: The portfolio is designed to be visually appealing and functi
 Technologies Used
 
 HTML
+
 CSS
+
+
+ScreenShot
+
+
+![port](https://github.com/Swati-Chouhan-01/Personal-Portfolio/assets/151751021/aa143485-f346-47f8-8752-97961802467e)
