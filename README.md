@@ -17,7 +17,10 @@ HTML
 CSS
 
 
-ScreenShot
+Preview
 
 
-![port](https://github.com/Swati-Chouhan-01/Personal-Portfolio/assets/151751021/aa143485-f346-47f8-8752-97961802467e)
+
+
+https://github.com/Swati-Chouhan-01/Personal-Portfolio/assets/151751021/301500e2-3aa2-402c-a333-94550c0b237d
+
